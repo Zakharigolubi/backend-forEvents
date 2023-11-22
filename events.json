@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "band": "Placebo",
+    "performances": [
+      {
+        "time": "12:00",
+        "hall": "Crocus City Hall"
+      },
+      {
+        "time": "23:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "band": "Interpol",
+    "performances": [
+      {
+        "time": "13:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "band": "The National",
+    "performances": [
+      {
+        "time": "14:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "band": "Arcade Fire",
+    "performances": [
+      {
+        "time": "15:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "band": "nothing,nowhere",
+    "performances": [
+      {
+        "time": "16:00",
+        "hall": "Crocus City Hall"
+      },
+      {
+        "time": "21:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "band": "Tame Impala",
+    "performances": [
+      {
+        "time": "17:00",
+        "hall": "Crocus City Hall"
+      },
+      {
+        "time": "22:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "band": "IAMX",
+    "performances": [
+      {
+        "time": "18:00",
+        "hall": "Crocus City Hall"
+      },
+      {
+        "time": "23:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "band": "TR/ST",
+    "performances": [
+      {
+        "time": "19:00",
+        "hall": "Crocus City Hall"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "band": "LCD Soundsystem",
+    "performances": [
+      {
+        "time": "12:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "band": "Manchester Orchestra",
+    "performances": [
+      {
+        "time": "13:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "band": "Joji",
+    "performances": [
+      {
+        "time": "14:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "band": "Mr. Kitty",
+    "performances": [
+      {
+        "time": "15:00",
+        "hall": "Известия Hall"
+      },
+      {
+        "time": "19:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "band": "The Temper Trap",
+    "performances": [
+      {
+        "time": "16:00",
+        "hall": "Известия Hall"
+      },
+      {
+        "time": "20:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "band": "Vancouver Sleep Clinic",
+    "performances": [
+      {
+        "time": "17:00",
+        "hall": "Известия Hall"
+      },
+      {
+        "time": "21:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "band": "Sleep Party People",
+    "performances": [
+      {
+        "time": "18:00",
+        "hall": "Известия Hall"
+      },
+      {
+        "time": "22:00",
+        "hall": "Известия Hall"
+      }
+    ]
+  }
+]
